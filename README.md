@@ -1,9 +1,9 @@
-# Customer Satisfaction Survey
+# Customer Survey
 
 This project is back-end of customer satisfaction survey RESTful Web Service.
 It presents surveys, and a repeatedly answerable survey topic, and calculated Net Promoter Score(NPS) of topics.
 
-You can access to front-end side of this project from here: [Customer Satisfaction Survey UI.](https://github.com/Sillyon/customer-satisfaction-survey-ui) 
+You can access to front-end side of this project from here: [Customer Survey UI.](https://github.com/yarlagaddajeevika/customer-survey-UI.git) 
 
 ## Development Environment
 
@@ -118,5 +118,5 @@ And i tested many examples using by **Postman**.
 * Also maybe you may want to add new features to this project(i.e. "question" table addition: *Users->Surveys->Questions->Answers* relation..)
 
 
-You can access to front-end side of this project from here: [Customer Satisfaction Survey UI.](https://github.com/Sillyon/customer-satisfaction-survey-ui) 
+You can access to front-end side of this project from here: [Customer Survey UI.](https://github.com/yarlagaddajeevika/customer-survey-UI.git) 
 
