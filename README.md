@@ -91,9 +91,6 @@ This endpoint also gets of calculated NPS of related Surveys given below:
 
 <img src="https://i.ibb.co/2MDMHPb/survey-list.png">
 
-### **Net Promoter Score Calculation**
-<img src="https://i.ibb.co/XXZjYL2/NPS.png">
-
 ## Running the tests
 
 As an example, **JUnit** tests have been done using **Mockito**.
